@@ -1,4 +1,4 @@
-# OSAKA Group ERP - Frontend Application
+ERP - Frontend Application
 
 A modern, enterprise-grade Enterprise Resource Planning (ERP) platform built with **Next.js 16+ (App Router & Turbopack)**, **TypeScript**, **Tailwind CSS**, **shadcn/ui**, and **Google Inter Font**.
 
@@ -28,7 +28,7 @@ A modern, enterprise-grade Enterprise Resource Planning (ERP) platform built wit
 
 ## 🏢 Overview & Architecture
 
-OSAKA Group ERP is designed for scalability, zero content layout shifts (CLS), and instantaneous transitions between isolated mock datasets and live microservices.
+ERP is designed for scalability, zero content layout shifts (CLS), and instantaneous transitions between isolated mock datasets and live microservices.
 
 ### Key Architectural Pillars:
 - **Strict Module-Aligned Feature Hierarchy**: All feature logic resides within `src/features/<module>/<feature_name>/`, mirroring `src/app/(dashboard)/<module>/<feature_name>/`.
